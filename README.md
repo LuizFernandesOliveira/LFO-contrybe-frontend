@@ -1,7 +1,7 @@
 # LFOOFICIAL
 
 ## LFO-contrybe-frontend
-é um sistema que armazena os exercícios feito pelos alunos da TRYBE.
+Contrybe (Contribuindo com a Trybe) é uma plataforma desenvolvida especificamente para alunos da Trybe (https://www.betrybe.com/). O objetivo é que a comunidade (alunos e professor) insira no sistema a resolução dos exercícios - em vídeo - para que os alunos possam ter acesso a explicações mais detalhadas sobre os exercícios.
 
 ### `yarn install`
 instala todos as dependências necessárias para iniciar a aplicação
